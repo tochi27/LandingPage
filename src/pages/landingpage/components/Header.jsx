@@ -26,7 +26,7 @@ const [isHovered, setIsHovered] = useState(false)
             <NavLink className='hover:bg-[violet] rounded-3xl py-2 px-6' to="#">Company</NavLink>
         </ul>
         <div className='flex items-center gap-5'>
-            <button className='text-black hover:bg-[teal] text-black rounded-3xl px-6 py-2'>Sign in</button>
+            <button className='text-black hover:bg-[teal] rounded-3xl px-6 py-2'>Sign in</button>
             <Button type="default">Get started</Button>
            
            
